@@ -1,13 +1,13 @@
-# Data_Warehousing
+﻿# Data_Warehousing
 This repository includes the project of Data Warehouse
 
 Objective:
-•	To develop data warehouse comprising of various healthcare related datasets taken from cms.org
-•	To create a Data Model for healthcare datasets used using ER Studio.
-•	To deliver insights of number of services, Medicare payment amounts, number of beneficiaries, the number of APC services, hospitals' average total estimated submitted charges.
-•	Insights about the payment services used and charges in healthcare domain over United States.
-•	Discover relatability between suppliers, providers and medical equipment, prosthetics, orthotics, and supplies.
-•	Visualize the relationships on various analytical tools such as Tableau and SSAS.
+• To develop data warehouse comprising of various healthcare related datasets taken from cms.org
+• To create a Data Model for healthcare datasets used using ER Studio.
+• To deliver insights of number of services, Medicare payment amounts, number of beneficiaries, the number of APC services, hospitals' average total estimated submitted charges.
+• Insights about the payment services used and charges in healthcare domain over United States.
+• Discover relatability between suppliers, providers and medical equipment, prosthetics, orthotics, and supplies.
+• Visualize the relationships on various analytical tools such as Tableau and SSAS.
 
 Data Source:
 1. The Physician and Other Supplier Public Use File
@@ -21,8 +21,8 @@ Link: https://data.cms.gov/Medicare-Durable-Medical-Equipment-DME-/Medicare-Refe
 
 Steps included while building Data Warehousing:
 1. Data Preprocessing
-2. Creating Stagging Table, Archieve Table and Destination table 
+2. Creating Staging Table, Achieve Table and Destination table 
 3. Creating Dimension Models, Entity Relation Diagram
-4. Making use of Lookup tables, derived Column, Slowly changing Dimension in SSIS according to the desried results
-5. Creatign The Multidimensional OLAP Cube was creates using SQL Server Analysis Services (SSAS) in MS Visual Studio (SSDT)
-6. Data Visulization using Tableau
+4. Making use of Lookup tables, derived Column, slowly changing Dimension in SSIS according to the desired results
+5. Creating the Multidimensional OLAP Cube was creates using SQL Server Analysis Services (SSAS) in MS Visual Studio (SSDT)
+6. Data Visualization using Tableau
